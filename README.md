@@ -24,24 +24,23 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="screenshots/chat_interface.png" alt="Chat Interface" width="400"/></td>
-      <td><img src="screenshots/code_analysis.png" alt="Code Analysis" width="400"/></td>
-    </tr>
-    <tr>
-      <td><p><em>Interactive Chat Interface</em></p></td>
-      <td><p><em>Code Analysis Tools</em></p></td>
-    </tr>
-    <tr>
-      <td><img src="screenshots/learning_resources.png" alt="Learning Resources" width="400"/></td>
-      <td><img src="screenshots/code_tools.png" alt="Code Tools" width="400"/></td>
-    </tr>
-    <tr>
-      <td><p><em>Learning Resources Section</em></p></td>
-      <td><p><em>Advanced Code Tools</em></p></td>
-    </tr>
-  </table>
+  <img src="screenshots/chat_interface.png" alt="Chat Interface" width="800"/>
+  <p><em>Interactive Chat Interface</em></p>
+</div>
+
+<div align="center">
+  <img src="screenshots/code_analysis.png" alt="Code Analysis" width="800"/>
+  <p><em>Code Analysis Tools</em></p>
+</div>
+
+<div align="center">
+  <img src="screenshots/learning_resources.png" alt="Learning Resources" width="800"/>
+  <p><em>Learning Resources Section</em></p>
+</div>
+
+<div align="center">
+  <img src="screenshots/code_tools.png" alt="Code Tools" width="800"/>
+  <p><em>Advanced Code Tools</em></p>
 </div>
 
 ## 🛠️ Tech Stack
