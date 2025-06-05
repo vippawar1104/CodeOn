@@ -23,7 +23,7 @@
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](https://img.shields.io/badge/▶️-Click_to_Watch the Demo-purple?style=for-the-badge)](https://drive.google.com/file/d/1c_W9yzS8jnnJb4IikS1E0Jpv0wgZObU2/view)
+[![Watch the Demo](https://img.shields.io/badge/▶️-Click_to_Watch_the_Demo-purple?style=for-the-badge)](https://drive.google.com/file/d/1c_W9yzS8jnnJb4IikS1E0Jpv0wgZObU2/view)
 
 > Click the button above to watch the third demo of the project hosted on Google Drive.
 
