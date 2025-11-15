@@ -1,0 +1,5 @@
+**/*.gguf
+**/*__pycache__
+**/*logs
+.env
+.venv/
